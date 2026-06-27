@@ -132,4 +132,4 @@ Frontend runs on: `http://localhost:3000`
 
 **Aakash Sharma**
 - GitHub: [@aakashsharmatech21-netizen](https://github.com/aakashsharmatech21-netizen)
-- LinkedIn: [linkedin.com/in/aakash-sharma](https://linkedin.com/in/aakash-sharma)
+- LinkedIn: [linkedin.com/in/aakash-sharma21](https://linkedin.com/in/aakash-sharma21)
